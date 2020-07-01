@@ -1,0 +1,69 @@
+.main{
+    border: 3px solid black;
+    width: 400px;
+    margin: 0 auto;
+    height: 410px;
+    background-color: lightgray;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+}
+.result{
+    width: 98%;
+    background-color: darkgray;
+    color:white;
+    /* border-radius: 5px; */
+    margin-right: 1px;
+    height: 70px;
+    border-color: black;
+    font-size: 40px;
+    
+}
+.clearbtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color:black;
+    color: gray;
+    height: 50px;
+    margin-bottom: 10px;
+    
+}
+.btn{
+    background-color: gray;
+    width: 100px;
+    margin: 1px;
+    border-radius: 5px;
+    height: 60px;
+}
+.halfbtn{
+    background-color: gray;
+    width: 48%;
+    margin-top: 5px;
+    height: 50px;
+    margin-left: 3px;
+}
+
+.halfbtn1{
+    background-color:black;
+    width: 48%;
+    margin-top: 5px;
+    color: darkgray;
+    height: 50px;
+    margin-left: 6px;
+    
+}
+.btnopp{
+    background-color: black;
+    width: 80px;
+    margin: 1px;
+    border-radius: 5px;
+    color:darkgray;    
+    height: 60px;
+}
+
+.rana{
+    text-align: center;
+    margin-top: 2px;
+    font-style: italic;
+    font-family: fantasy;
+}
